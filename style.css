@@ -1,0 +1,77 @@
+img
+{
+	max-width:100%
+}
+
+body
+{
+	color:#253341;
+	font:100 14px/1.5 exo,dan,arial;
+	background-color:#253341;
+	margin:0;
+	padding:0;
+	display:none
+}
+
+#site
+{
+	width:930px;
+	margin:0 auto;
+	background-color:#fff;
+	overflow:hidden;
+	padding:30px
+}
+
+#welcome
+{
+	padding:40px 40px 0 40px;
+	text-algin:center
+}
+
+#welcome h1
+{
+	font:normal 25px gtl;
+	text-align:center;
+	margin-bottom:40px
+}
+
+#welcome p
+{
+	text-align:center
+}
+
+#warp h2
+{
+	margin:50px -30px 30px -30px;
+	padding:15px;
+	background:#f6f6f6;
+	border:1px solid #eee;
+	font:18px gtl
+}
+
+#warp h2 a
+{
+	float:left;
+	color:#3af;
+	text-decoration:none;
+	border-bottom:1px dashed
+}
+
+#warp p
+{
+	display:block
+}
+
+#warp a, #welcome a
+{
+	color:#3af;
+	text-decoration:none;
+	border-bottom:1px dashed;
+	margin:0 5px
+}
+
+#warp p img
+{
+	margin:20px 0;
+	border:1px solid #ddd
+}
